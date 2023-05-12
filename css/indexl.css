@@ -278,8 +278,7 @@
 
 .imageHighlight--main {
     background-size: cover;
-    height: 100%;
-    max-width: 377px;
+    width: 90%;
 }
 
 .highlight-icon {

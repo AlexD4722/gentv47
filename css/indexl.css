@@ -194,10 +194,9 @@
 }
 
 .meta-content__title {
-    position: relative;
-    top: -45px;
+    position: absolute;
+    top: 50px;
     left: 60px;
-    width: calc(100% - 60px);
 }
 
 .meta-content__header {
